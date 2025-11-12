@@ -11,31 +11,22 @@
 
 ### Session Description
 
-*Add Session Description*
+This hands-on lab with Microsoft Copilot Studio guides you through the full agent lifecycle—from purpose-driven design to advanced capabilities. Learn how to build, integrate, automate, and deploy a fully functional agent using tools like Agent Flows and MCP. Walk away with practical skills to customize agents for real-world business needs.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- Build an agent from scratch
+- Learn how to use knowledge together with agents
+- Learn how to add an MCP Server to the agent
+- Learn how to build agent flows that can be added to the agent
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
-
-### 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
-
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+1. Microsoft Copilot Studio
+1. Model Context Protocol (MCP)
+1. Agent Flows
 
 ### 📚 Resources and Next Steps
 
@@ -47,29 +38,23 @@ For more information, setup instructions for other dev clients, and to post comm
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+    <td align="center"><a href="http://github.com/aprildunnam">
+        <img src="https://github.com/aprildunnam.png" width="100px;" alt="April Dunnam"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b>April Dunnam
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/aprildunnam" title="talk">📢</a>
     </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
+    <td align="center"><a href="http://github.com/laskewitz">
+        <img src="https://github.com/laskewitz.png" width="100px;" alt="Daniel Laskewitz
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Daniel Laskewitz
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/laskewitz" title="talk">📢</a>
     </td>
 </tr></table>
-
 
 ## Contributing
 
