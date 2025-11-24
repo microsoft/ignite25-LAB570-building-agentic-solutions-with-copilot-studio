@@ -34,7 +34,7 @@ By the end of this session, learners will be able to:
 |:-------------------|:----------------------------------|:-------------------|
 | Agent Academy | [https://aka.ms/agent-academy](https://aka.ms/agent-academy) | A curriculum to learn more about Agents in Copilot Studio |
 | Power Platform & MCP | [https://aka.ms/pp-mcp](https://aka.ms/pp-mcp) | A site where you can find more information about MCP in Power Platform |
-| Lab instructions | [https://github.com/microsoft/aitour26-WRK532-building-agents-with-copilot-studio](https://github.com/microsoft/aitour26-WRK532-building-agents-with-copilot-studio) | Instructions for the lab |
+| Lab instructions | [https://github.com/microsoft/aitour26-WRK532-building-agentic-solutions-with-copilot-studio/blob/main/lab/README.md](https://github.com/microsoft/aitour26-WRK532-building-agentic-solutions-with-copilot-studio/blob/main/lab/README.md) | Instructions for the lab |
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Microsoft Foundry Community Discord | [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://aka.ms/MicrosoftFoundry-Ignite25)| Connect with the Microsoft Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
